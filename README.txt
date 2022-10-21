@@ -45,18 +45,5 @@ Height and HeightMesh settings. This may be the reason why upon collision of the
 to two lives being reduced instead of one.
 
 
-Design Evolution:
-
-Cupcake Escape was not my initial idea for the project for this course. The 3D-Terrain exercise I submitted was 
-demo of the idea I wanted to implement: a first-person explorative, puzzle-solving game in the style of escape room games. 
-I quickly realized the scope of a game like that was too large and demanding, and would involve some complex programming.
-After re-evaluating what we've learned in this course and what I thought I was capable of achieving, the idea evolved into
-Cupcake Escape.
-
-
-Additional note:
-In the presentation video, it was noticed that the Oven was able to go through some of the ramps and platforms in the obstacles. The Agent Radius
-has since been readjusted in all the stages and the tutorial and re-baked, and the game rebuilt. 
-
-
+Edited October 21, 2022
 
